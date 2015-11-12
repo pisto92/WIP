@@ -37,11 +37,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-
     testfairyConfig {
         apiKey '7c530381abf00a8daad6fff105c875b15325cb79'
-        testersGroups 'prova'
-        comment 'commento di prova'
     }
 }
 
