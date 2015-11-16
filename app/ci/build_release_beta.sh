@@ -5,4 +5,4 @@ cd ${CURRENT_DIR}
 source ./android_home.sh
 
 cd ../../
-./gradlew -PtestfairyChangelog="$1" testfairyRelease
+./gradlew -PtestfairyChangelog="$1" testfairyDebug
